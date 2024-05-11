@@ -21,7 +21,7 @@ integrates seamlessly with Home Assistant through
 The reason for the add-on was the lack of official support for device integration.
 
 I welcome pull requests, bug reports, and feature requests. Please feel free to submit them in the
-[issues section](https://github.com/Bilan/connectlife-api-connector/issues).
+[issues section](https://github.com/zwk920/connectlife-api-connector/issues).
 
 ## Install in Home Assistant with Supervisor
 
@@ -30,7 +30,7 @@ I welcome pull requests, bug reports, and feature requests. Please feel free to 
 1. Make sure your Connectlife appliances are online.
 2. In Supervisor, navidate to the Add-on Store.
 3. From the overflow menu, select "Repositories".
-4. Add `https://github.com/bilan/home-assistant-addons/`.
+4. Add `https://github.com/zwk920/home-assistant-addons/`.
 5. Wait for Add-on to appear or click "Reload" in the same overflow menu.
 6. Install / build thhe add-on.
 7. Turn on the add-on watchdog - Connectlife API is not stable and sometimes times out.
